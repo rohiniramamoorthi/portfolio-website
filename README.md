@@ -12,6 +12,7 @@ Check out the live version here:
 
 - HTML5
 - CSS3 (No frameworks or libraries used)
+- Also i created an assets file where i kept my image
 
 ## 📁 Features
 
