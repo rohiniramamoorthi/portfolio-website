@@ -273,7 +273,6 @@
     <footer class="site-footer">
       <div class="container footer-inner">
         <p>© <span id="year">2025</span> Rohini. All rights reserved.</p>
-        <a class="back-to-top" href="#top">Back to top ↑</a>
       </div>
     </footer>
 
@@ -312,6 +311,12 @@
               target.scrollIntoView({
                 behavior: 'smooth',
                 block: 'start'
+              });
+            } else {
+              // Fallback: scroll to top if target not found
+              window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
               });
             }
           });
