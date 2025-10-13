@@ -1,7 +1,7 @@
 # Rohini Ramamoorthi – Portfolio Website
 
 Welcome to my personal portfolio website! 🌐  
-This project is a simple, clean, and responsive portfolio built using **only HTML and CSS**. It showcases my profile, skills, and how to contact me.
+This project is a simple, clean, and responsive portfolio built using Html,css and Js. It showcases my profile, skills, and how to contact me.
 
 ## 🔗 Live Demo
 
@@ -12,6 +12,7 @@ Check out the live version here:
 
 - HTML5
 - CSS3 (No frameworks or libraries used)
+- Javascript for animations
 - Also i created an assets file where i kept my image
 
 ## 📁 Features
